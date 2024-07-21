@@ -6,5 +6,5 @@ Objective: This project demonstrates an article retrieval and question-answering
 Skills: RAG, LLM, ChromaDB, Mistral7B, Langchain
 
 Project 2: PDF-based Q&A with Mistral7b, LangChain and Chroma
-Objective: 
-Skills: 
+Objective: Developed an intelligent document analysis system integrating LLMs like Mistral7b and Langchain for querying PDF files, using ChromDb and RAG to enhance information accessibility and usability
+Skills: RAG, LLM, ChromaDB, Mistral7B, Langchain
