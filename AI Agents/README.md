@@ -9,7 +9,7 @@ Each notebook focuses on a distinct design pattern or workflow evolution.
 | # | Title | Focus Area | 
 |---|--------|-------------|
 | 1️⃣ | [Building a Reasoning AI Agent](https://github.com/kanikawarman/AI/tree/main/AI%20Agents/01_reasoning_agent) | Single-agent reasoning & tool use | 
-| 2️⃣ | [Agentic AI Architectures: Multi-Agent Loop](./02_multi_agent_architectures/README.md) | Multi-agent orchestration & refinement | 
+| 2️⃣ | [Agentic AI Architectures: Multi-Agent Loop](https://github.com/kanikawarman/AI/tree/main/AI%20Agents/02_multi_agent_architectures) | Multi-agent orchestration & refinement | 
 | 3️⃣ | *Coming Soon: Agent Memory & Persistence* | State retention across reasoning steps | 
 | 4️⃣ | *Coming Soon: Planner–Executor Architectures* | Hierarchical planning in agent systems | 
 ---
