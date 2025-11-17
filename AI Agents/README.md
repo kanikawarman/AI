@@ -12,7 +12,7 @@ The goal of this notebook is to **showcase end-to-end agentic AI development** �
 
 ---
 
-## 🧩 Key Features
+## Key Features
 
 - **Reasoning-Capable Agent**  
   Implements a Gemini-powered agent that decides when to rely on internal knowledge vs. external tools.
@@ -44,6 +44,40 @@ The goal of this notebook is to **showcase end-to-end agentic AI development** �
 
 ---
 
-## 🚀 Project Structure
 
+**Notebook Sections:**
+1. **Environment Setup** – Initialize dependencies and configure secure API authentication.  
+2. **Agent Configuration** – Define reasoning logic, model, and tool integration.  
+3. **Retry Policy** – Implement exponential backoff and error resilience.  
+4. **Execution & Reasoning** – Run live queries to observe tool use and reasoning trace.  
+5. **Agent Decision Flow** – Visualize how the agent decides between internal reasoning and tool invocation.  
+6. **Summary & Insights** – Capture learnings and performance observations.  
 
+---
+
+## Example Query
+
+```python
+await run_and_print("Who won the last soccer World Cup?")
+```
+
+## **Agent Output:**
+
+- The last men's soccer World Cup was won by Argentina in 2022.
+- The last women's soccer World Cup was won by Spain in 2023.
+
+Sources:
+
+- 2022 FIFA World Cup — Wikipedia
+- 2023 FIFA Women's World Cup — Wikipedia
+
+## **Key Learnings**
+
+- Practical implementation of agentic reasoning workflows using LLMs.
+- How to integrate external tools for real-time information retrieval.
+- Strategies for error handling, retry logic, and robust API management.
+- Importance of traceability in agent behavior and output validation.
+
+## **Next Steps: Extending to Multi-Agent Architectures**
+
+This project serves as the foundation for exploring multi-agent systems — where specialized agents collaborate to plan, research, and summarize information.
